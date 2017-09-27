@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>dash-spring-boot</groupId>
   <artifactId>dash-spring-boot</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>war</packaging>
   <parent>
         <groupId>org.springframework.boot</groupId>
